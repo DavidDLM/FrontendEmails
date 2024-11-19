@@ -1,0 +1,25 @@
+{
+  "name": "classifyemails",
+  "license": "0BSD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo-asset": "~11.0.1",
+    "expo-file-system": "~18.0.3",
+    "expo-status-bar": "~2.0.0",
+    "react": "18.3.1",
+    "react-native": "0.76.2",
+    "react-native-fs": "^2.20.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "expo": "^52.0.7"
+  },
+  "private": true
+}
